@@ -1,0 +1,9 @@
+set PATH=%PATH%;C:\MinGW\bin //no cmd
+
+$env:PATH += ";C:\MinGW\bin" // no powershell
+
+arquivo de PATH Temporário
+
+compila o arquivo aula1.cpp
+g++ aula1.cpp -o aula1.exe
+
